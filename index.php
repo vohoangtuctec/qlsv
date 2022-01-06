@@ -9,6 +9,7 @@
 <body>
 <div class="container">
 <a href="them.php" class="btn btn-primary">Thêm bài viết</a>
+<h1>THÊM BÀI VIẾT</h1>
 <?php
         include('ketnoi.php');
         $sql ="SELECT * FROM baiviet";
